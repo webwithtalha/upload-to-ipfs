@@ -1,0 +1,44 @@
+{
+  "1": {
+    "name": "NFT 1",
+    "description": "Description of NFT 1",
+    "supply": "1",
+    "image": "",
+    "type": "image",
+    "collection": "0x000",
+    "attributes": [
+      {
+        "trait_type": "Attribute 1",
+        "value": "Value 1"
+      }
+    ]
+  },
+  "2": {
+    "name": "NFT 2",
+    "description": "Description of NFT 2",
+    "supply": "1",
+    "image": "",
+    "type": "image",
+    "collection": "0x000",
+    "attributes": [
+      {
+        "trait_type": "Attribute 2",
+        "value": "Value 2"
+      }
+    ]
+  },
+  "3": {
+    "name": "NFT 3",
+    "description": "Description of NFT 3",
+    "supply": "1",
+    "image": "",
+    "type": "image",
+    "collection": "0x000",
+    "attributes": [
+      {
+        "trait_type": "Attribute 3",
+        "value": "Value 3"
+      }
+    ]
+  }
+}

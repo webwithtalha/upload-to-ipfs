@@ -1,0 +1,11 @@
+{
+  "name": "upload-ipfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ipfs-http-client": "^60.0.0"
+  }
+}
